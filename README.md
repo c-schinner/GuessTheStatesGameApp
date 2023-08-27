@@ -24,7 +24,7 @@ Turtle graphics library
 Pandas library
 
 # Installation
-Download the 'main.py' file
+Download the 'main.py' file, and all of the subfiles for this project.
 
 Install the required libraries using the following commands:
 
