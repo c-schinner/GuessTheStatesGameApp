@@ -1,23 +1,33 @@
 # Guess the States Game App
-The Guess the States Game App is a simple interactive Python program that allows users to guess the names of various states in the United States. The app utilizes the Turtle graphics library for visual display and the Pandas library for data management. The objective of the game is to correctly guess all 50 states in the U.S.
+The Guess the States Game App is a simple interactive Python program that allows users to guess the names of various states in the United States. 
+
+The app utilizes the Turtle graphics library for visual display and the Pandas library for data management. 
+
+The objective of the game is to correctly guess all 50 states in the U.S.
 
 # Features
 Displays a blank map of the United States.
+
 Prompts the user to guess the names of U.S. states.
+
 Tracks and displays the user's progress by showing the number of states guessed correctly out of 50.
+
 Provides the option to exit the game at any time.
+
 Saves a list of states that the user has not yet guessed to a CSV file for further learning.
 
 # Getting Started
-# Prerequisites
 Python 3.x
+
 Turtle graphics library
+
 Pandas library
 
 # Installation
-Make sure you have Python installed. You can download it from the official Python website.
+Download the 'main.py' file
 
 Install the required libraries using the following commands:
+
 pip install pandas
 
 # Usage
@@ -38,14 +48,18 @@ pip install pandas
 8. If you exit the game, a CSV file named states_to_learn.csv will be created, containing the names of states that you have not guessed correctly. This file can be used for further practice.
 
 # Contributing
-This game is a basic implementation and can be further improved with additional features and enhancements. Feel free to contribute by adding new functionalities, optimizing the code, or improving the user interface.
+This game is a basic implementation and can be further improved with additional features and enhancements. 
+
+Feel free to contribute by adding new functionalities, optimizing the code, or improving the user interface.
 
 # License
 This project is licensed under the MIT License.
 
 # Acknowledgments
 This game was created as a learning project using Python and various libraries.
+
 The geographical data for the U.S. states is sourced from the 50_states.csv file.
+
 Enjoy the game and have fun guessing the U.S. states!
 
 
